@@ -17,7 +17,7 @@ Delving into [Social Media (Instagram) Content of Pusdiklat BPS](https://www.ins
 ## Methodology
 1. Scrap our blog with [simplescraper](https://simplescraper.io/)
 2. Clean the data with [spreadsheets](https://docs.google.com/spreadsheets/d/13hsXm20S6RdAyK520rLLkbbUJEywRp5F/edit?usp=sharing&ouid=101051388151123974532&rtpof=true&sd=true)
-3. Create word cloud & charts with python via [google colab](https://docs.google.com/presentation/d/1h-E5dHt6ZV-QrZE3D2jbWYKjRjUgBT1MAUFNKhDOsP4/edit?usp=sharing)
+3. Create word cloud & charts with python via [google colab](https://colab.research.google.com/drive/14X77RrQs9XKgDvfEswFP0vQZ6Ep1CRa1?usp=sharing)
 3. Craft insights & recommendations
 
 ## Results
